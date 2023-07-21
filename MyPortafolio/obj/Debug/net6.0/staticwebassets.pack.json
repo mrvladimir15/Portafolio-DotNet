@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\MyPortafolio.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
       "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\f3.png",
+      "PackagePath": "staticwebassets\\img\\f3.png"
     },
     {
       "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\js\\site.js",

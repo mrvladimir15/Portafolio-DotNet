@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MyPortafolio.Models;
 using System.Diagnostics;
+using System.Net.Cache;
 
 namespace MyPortafolio.Controllers
 {
@@ -15,7 +16,12 @@ namespace MyPortafolio.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var person = new Person()
+            {
+                Name = "Vladimir Gonzalez",
+                Age = 21
+            };
+            return View(person);
         }
 
         public IActionResult Privacy()

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I0sJekrLcvr1gA/e8NIi6F8b+5Rc5YILCf40IK0Ug6w=",
+  "Hash": "a+Ujp0ZNBWRf69MVZH1T1y814OcOGpuJp0u3nF+xWms=",
   "Source": "MyPortafolio",
   "BasePath": "_content/MyPortafolio",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyPortafolio.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\css\\custom.css",
+      "SourceId": "MyPortafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\",
+      "BasePath": "_content/MyPortafolio",
+      "RelativePath": "css/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
+    },
+    {
       "Identity": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\css\\site.css",
       "SourceId": "MyPortafolio",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\f3.png",
+      "SourceId": "MyPortafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\",
+      "BasePath": "_content/MyPortafolio",
+      "RelativePath": "img/f3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\f3.png"
     },
     {
       "Identity": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\js\\site.js",
