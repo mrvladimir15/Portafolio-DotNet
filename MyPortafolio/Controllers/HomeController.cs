@@ -16,12 +16,7 @@ namespace MyPortafolio.Controllers
 
         public IActionResult Index()
         {
-            var person = new Person()
-            {
-                Name = "Vladimir Gonzalez",
-                Age = 21
-            };
-            return View(person);
+            return View();
         }
 
         public IActionResult Privacy()
