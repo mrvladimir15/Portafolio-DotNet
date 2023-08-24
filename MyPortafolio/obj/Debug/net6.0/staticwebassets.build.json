@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a+Ujp0ZNBWRf69MVZH1T1y814OcOGpuJp0u3nF+xWms=",
+  "Hash": "FIA27K5aXuCLAWth+nvFEUbUck5pT0b6AGqI8i+qIWY=",
   "Source": "MyPortafolio",
   "BasePath": "_content/MyPortafolio",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\dotnet.png",
+      "SourceId": "MyPortafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\",
+      "BasePath": "_content/MyPortafolio",
+      "RelativePath": "img/dotnet.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\dotnet.png"
     },
     {
       "Identity": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\f3.png",

@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\dotnet.png",
+      "PackagePath": "staticwebassets\\img\\dotnet.png"
+    },
+    {
       "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\f3.png",
       "PackagePath": "staticwebassets\\img\\f3.png"
     },
