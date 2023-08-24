@@ -17,12 +17,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\dotnet.png",
-      "PackagePath": "staticwebassets\\img\\dotnet.png"
+      "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\amazon.PNG",
+      "PackagePath": "staticwebassets\\img\\amazon.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\dotnettext.png",
+      "PackagePath": "staticwebassets\\img\\dotnettext.png"
     },
     {
       "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\f3.png",
       "PackagePath": "staticwebassets\\img\\f3.png"
+    },
+    {
+      "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\nyt.PNG",
+      "PackagePath": "staticwebassets\\img\\nyt.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\reddit.PNG",
+      "PackagePath": "staticwebassets\\img\\reddit.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\img\\steam.PNG",
+      "PackagePath": "staticwebassets\\img\\steam.PNG"
     },
     {
       "Id": "C:\\Users\\Vladimir González\\Documents\\Curso ASP.NET Core MVC 6\\Portafolio\\MyPortafolio\\wwwroot\\js\\site.js",
