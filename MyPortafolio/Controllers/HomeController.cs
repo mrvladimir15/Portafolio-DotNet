@@ -19,15 +19,16 @@ namespace MyPortafolio.Controllers
 
         public IActionResult Index()
         {
-            _logger.LogInformation("Este es un mensaje de logs");
             var proyectos = repositorioProyectos.ObtenerProyectos().Take(3).ToList();
             var modelo = new HomeIndexDTO() { Proyectos = proyectos };
             return View(modelo);
         }
 
-        public IActionResult Privacy()
+        public IActionResult Proyectos()
         {
-            return View();
+            var proyectos = repositorioProyectos.ObtenerProyectos();
+
+            return View(proyectos);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
