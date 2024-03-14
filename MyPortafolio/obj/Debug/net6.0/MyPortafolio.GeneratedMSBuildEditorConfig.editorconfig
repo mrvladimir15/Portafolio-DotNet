@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Vladimir González\Documents\Curso ASP.NET Core MVC 6\Portafolio\MyPortafolio
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Vladimir González/Documents/Curso ASP.NET Core MVC 6/Portafolio/MyPortafolio/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vladimir González/Documents/Curso ASP.NET Core MVC 6/Portafolio/MyPortafolio/Views/Home/Gracias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHcmFjaWFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Vladimir González/Documents/Curso ASP.NET Core MVC 6/Portafolio/MyPortafolio/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

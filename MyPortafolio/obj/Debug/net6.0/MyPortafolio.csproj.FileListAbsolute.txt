@@ -6,7 +6,6 @@ C:\Users\Vladimir González\Documents\Curso ASP.NET Core MVC 6\Portafolio\MyPort
 C:\Users\Vladimir González\Documents\Curso ASP.NET Core MVC 6\Portafolio\MyPortafolio\bin\Debug\net6.0\MyPortafolio.runtimeconfig.json
 C:\Users\Vladimir González\Documents\Curso ASP.NET Core MVC 6\Portafolio\MyPortafolio\bin\Debug\net6.0\MyPortafolio.dll
 C:\Users\Vladimir González\Documents\Curso ASP.NET Core MVC 6\Portafolio\MyPortafolio\bin\Debug\net6.0\MyPortafolio.pdb
-C:\Users\Vladimir González\Documents\Curso ASP.NET Core MVC 6\Portafolio\MyPortafolio\obj\Debug\net6.0\MyPortafolio.csproj.AssemblyReference.cache
 C:\Users\Vladimir González\Documents\Curso ASP.NET Core MVC 6\Portafolio\MyPortafolio\obj\Debug\net6.0\MyPortafolio.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Vladimir González\Documents\Curso ASP.NET Core MVC 6\Portafolio\MyPortafolio\obj\Debug\net6.0\MyPortafolio.AssemblyInfoInputs.cache
 C:\Users\Vladimir González\Documents\Curso ASP.NET Core MVC 6\Portafolio\MyPortafolio\obj\Debug\net6.0\MyPortafolio.AssemblyInfo.cs

@@ -36,5 +36,21 @@ namespace MyPortafolio.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public IActionResult Contact()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Contact(ContactDTO contactDTO)
+        {
+            return RedirectToAction("Gracias");
+        }
+
+        public IActionResult Gracias()
+        {
+            return View();
+        }
     }
 }
